@@ -20,4 +20,5 @@ A node script that will create a folder with a given name and populate it with a
 - pushes changes to git repository
 
 ## Usage:
+- npm install -g project-generator-1.0.0.tgz
 - generate projectName gitRemote
