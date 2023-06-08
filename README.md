@@ -14,11 +14,11 @@ A node script that will create a folder with a given name and populate it with a
 - jest - amends package.json appropriately
 - git
 
-## Git:
+## Git Setup:
 - commits folder to git - with "initial commit"
 - sets a git remote based on given url
 - pushes changes to git repository
 
 ## Usage:
-- npm install -g project-generator-1.0.0.tgz
+- npm install -g project-generator-1.0.0.tgz (to make the code available globally)
 - generate projectName gitRemote
